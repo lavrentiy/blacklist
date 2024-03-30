@@ -2,7 +2,7 @@
 Counter Tracking & Advertising
 #######################################################################
 
-google-analytics.com
+0.0.0.0 google-analytics.com
 app-measurement.com
 g.live.com
 beacons.gcp.gvt2.com
@@ -43,3 +43,16 @@ improving.duckduckgo.com
 e.reddit.com
 metrics.aetn.com
 pixel.quantserve.net
+#incoming.telemetry.mozilla.org
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 s0-2mdn-net.l.google.com
+0.0.0.0 ads.google.com
+0.0.0.0 adservice.google.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
