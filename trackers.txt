@@ -19,13 +19,9 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 ase.adserver.snapads.com
 0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons2.gvt2.com
-0.0.0.0 beacons2.gvt2.com
 0.0.0.0 beacons3.gvt2.com
-0.0.0.0 beacons4.gvt2.com
 0.0.0.0 beacons4.gvt2.com
 0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons5.gvt3.com
@@ -50,7 +46,6 @@
 0.0.0.0 s0-2mdn-net.l.google.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.gc.apple.com
