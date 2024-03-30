@@ -3,47 +3,47 @@
 #######################################################################
 
 0.0.0.0 google-analytics.com
-app-measurement.com
-g.live.com
-beacons.gcp.gvt2.com
-beacons.gvt2.com
-beacons3.gvt2.com
-beacons2.gvt2.com
-beacons4.gvt2.com
-eu-mobile.events.data.microsoft.com
-ads.twitter.com
-events.appsflyer.com
-stats.appsflyer.com
-t.appsflyer.com
-googleads.g.doubleclick.net
-securepubads.g.doubleclick.net
-ad.doubleclick.net
-ssl.google-analytics.com
-adservice.google.de
-federatedml-pa.googleapis.com
-crashlogs.whatsapp.net
-sc-analytics.appspot.com
-app-analytics.snapchat.com
-adserver.snapads.com
-euw.adserver.snapads.com
-euc.adserver.snapads.com
-usc.adserver.snapads.com
-ase.adserver.snapads.com
-tr.snapchat.com
-stats.gc.apple.com
-iadsdk.apple.com
-crashdump.spotify.com
-analytics.spotify.com
-analytics.yahoo.com
-adserver.yahoo.com
-telemetry.dropbox.com
-telemetry.microsoft.com
-telemetry.mozilla.org
-improving.duckduckgo.com
-e.reddit.com
-metrics.aetn.com
-pixel.quantserve.net
-#incoming.telemetry.mozilla.org
+0.0.0.0 app-measurement.com
+0.0.0.0 g.live.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 eu-mobile.events.data.microsoft.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 adservice.google.de
+0.0.0.0 federatedml-pa.googleapis.com
+0.0.0.0 crashlogs.whatsapp.net
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 adserver.snapads.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 euc.adserver.snapads.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 stats.gc.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 crashdump.spotify.com
+0.0.0.0 analytics.spotify.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 adserver.yahoo.com
+0.0.0.0 telemetry.dropbox.com
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.mozilla.org
+0.0.0.0 improving.duckduckgo.com
+0.0.0.0 e.reddit.com
+0.0.0.0 metrics.aetn.com
+0.0.0.0 pixel.quantserve.net
+0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacons4.gvt2.com
 0.0.0.0 beacons3.gvt2.com
