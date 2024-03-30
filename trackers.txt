@@ -36,7 +36,6 @@
 0.0.0.0 g.live.com
 0.0.0.0 g.msn.com
 0.0.0.0 google-analytics.com
-0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 improving.duckduckgo.com
@@ -55,4 +54,3 @@
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 tr.snapchat.com
 0.0.0.0 usc.adserver.snapads.com
-0.0.0.0 www.google-analytics.com
