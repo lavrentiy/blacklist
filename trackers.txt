@@ -32,4 +32,14 @@ ase.adserver.snapads.com
 tr.snapchat.com
 stats.gc.apple.com
 iadsdk.apple.com
-
+crashdump.spotify.com
+analytics.spotify.com
+analytics.yahoo.com
+adserver.yahoo.com
+telemetry.dropbox.com
+telemetry.microsoft.com
+telemetry.mozilla.org
+improving.duckduckgo.com
+e.reddit.com
+metrics.aetn.com
+pixel.quantserve.net
